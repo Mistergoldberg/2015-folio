@@ -1,0 +1,79 @@
+ body {
+   color: rgb(255,255,255);
+}
+
+a {
+	display:block;
+	max-width:440px;
+	margin:0 auto;	
+}
+
+#title , #subtitle{
+	margin:0 auto;
+	text-align:center;
+	max-width:440px;
+}
+
+#title{
+  font-size:50px;
+  font-weight:700;
+  padding:10px 0;
+  float:none;
+  position:relative;
+  line-height:50px;
+}
+
+#subtitle{
+  font-size:20px;
+  font-weight:400;
+  margin-top:-10px;
+}
+
+#icons{
+	width:120px;
+	min-height:40px;
+	margin:0 auto;
+	margin-bottom:-10px;
+	overflow:hidden;
+}
+
+.icon{
+	margin:5px;
+}
+
+.icon img{
+	margin-top:-30px;
+}
+
+
+.frame:hover > a #icons .icon img, .frame:active > a #icons .icon img{ margin-top:0px;}
+
+
+.frame{
+	background:rgb(0,0,0);
+	margin:8% auto 0;
+	max-width:450px;
+	padding:1% 0 0 0;
+	height:28%;
+	max-height:230px;
+ }
+ 
+ .frame:hover p, .frame:active p{
+	 color:rgb(15,15,15);
+ }
+ 
+ .frame:hover, .frame:active{
+	background:rgb(255,255,255);
+	margin:0 auto;
+	max-width:950px;
+	height:79%;
+	max-height:650px;
+	padding:9% 0 0 0;
+}
+
+ .frame, .frame:hover, .frame:active{
+ 	-webkit-transition: all .4s ease-in-out;
+ 	-moz-transition: all .4s ease-in-out;
+ 	-o-transition: all .4s ease-in-out;
+ 	transition: all .4s ease-in-out;
+ }

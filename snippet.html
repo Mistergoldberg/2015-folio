@@ -1,0 +1,45 @@
+<!-- first, replace the old style.css with the new style.css -->
+<!-- second, add the two new arrow .pngs to the images folder -->
+
+
+
+
+<!-- a block like this should be added as the last item in every <div class="frame"> -->
+<!-- delete the old version of this block everywhere it appears -->
+<style type="text/css">
+body {
+	background-color: #1E1919;
+}
+</style>
+
+
+<div class="foot-nav"> <!-- bottom foot nav -->
+	<a href="#slide2"        class="foot-nav-link up"><img src="../folio/images/arrow_updown.png"></a>
+	<a href="picarty-mashup" class="foot-nav-link next trans-right"><img src="../folio/images/arrow_next.png"></a>
+	<a href="#slide3"        class="foot-nav-link down"><img src="../folio/images/arrow_updown.png"></a>
+</div>
+
+<!-- don't forget to update the href="" attribute to the apprepriate value in every slide -->
+
+
+
+
+<!-- the up arrow makes no sense on the first slide, and the down makes no sense on the last -->
+<!-- simply delete those lines -->
+<!-- heres some examples: -->
+
+<!-- first slide -->
+<div class="foot-nav"> <!-- bottom foot nav -->
+	<a href="picarty-mashup" class="foot-nav-link next trans-right"><img src="../folio/images/arrow_next.png"></a>
+	<a href="#slide2"        class="foot-nav-link down"><img src="../folio/images/arrow_updown.png"></a>
+</div>
+
+<!-- last slide -->
+<div class="foot-nav"> <!-- bottom foot nav -->
+	<a href="#slide2"        class="foot-nav-link up"><img src="../folio/images/arrow_updown.png"></a>
+	<a href="picarty-mashup" class="foot-nav-link next trans-right"><img src="../folio/images/arrow_next.png"></a>
+</div>
+
+
+
+<!-- let me know if something goes wrong -->
