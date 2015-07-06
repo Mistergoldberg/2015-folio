@@ -337,7 +337,7 @@ div.content {
 }
 
 div.content.process {
-    margin:0 20px;
+    padding:0 20px;
 }
 div.content.process .float { 
     float: left;
@@ -351,7 +351,7 @@ div.content.process .processIcon {
 }
 div.content.process div.info {
     padding: 0 15px 0 20px;
-    max-width: 835px;
+    max-width: 815px;
 }
 
 div.content.process ul {
