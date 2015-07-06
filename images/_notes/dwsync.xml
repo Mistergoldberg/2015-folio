@@ -60,7 +60,6 @@
 <file name="picarty-v2-instruction-screen-6.jpg" server="mistergoldberg.com" local="130770432361296165" remote="130344984000000000" Dst="2" />
 <file name="picarty-v2-instruction-screen-7.jpg" server="mistergoldberg.com" local="130770432361756373" remote="130344984000000000" Dst="2" />
 <file name="picarty-v2-instruction-screen-8.jpg" server="mistergoldberg.com" local="130770432367153627" remote="130344984000000000" Dst="2" />
-<file name="pix-bg-lofi-digital-camera.jpg" server="mistergoldberg.com" local="130779548445673897" remote="130779507600000000" Dst="2" />
 <file name="pix-bg.jpg" server="mistergoldberg.com" local="130770431949056547" remote="130344984000000000" Dst="2" />
 <file name="pix-column.jpg" server="mistergoldberg.com" local="130770431949206651" remote="130344984000000000" Dst="2" />
 <file name="pix-incolumn.jpg" server="mistergoldberg.com" local="130770431949536937" remote="130344984000000000" Dst="2" />
@@ -81,7 +80,6 @@
 <file name="3d-pool-banner-new.jpg" server="mistergoldberg.com" local="130791429324499269" remote="130791388200000000" Dst="2" />
 <file name="ball-pop-banner-new.jpg" server="mistergoldberg.com" local="130792031302141663" remote="130791990600000000" Dst="2" />
 <file name="push-button-banner-new.jpg" server="mistergoldberg.com" local="130800740937187504" remote="130800699600000000" Dst="2" />
-<file name="cyclops--banner-new.jpg" server="mistergoldberg.com" local="130796642747584276" remote="130796602200000000" Dst="2" />
 <file name="process-Info.jpg" server="mistergoldberg.com" local="130792961554566395" remote="130792945200000000" Dst="2" />
 <file name="process-mag-glass.jpg" server="mistergoldberg.com" local="130792961270160193" remote="130792945200000000" Dst="2" />
 <file name="process-profile.jpg" server="mistergoldberg.com" local="130792961390787502" remote="130792945200000000" Dst="2" />
@@ -91,15 +89,35 @@
 <file name="process-mc.jpg" server="mistergoldberg.com" local="130793838954414064" remote="130793798400000000" Dst="2" />
 <file name="process-mp.jpg" server="mistergoldberg.com" local="130793839142617184" remote="130793798400000000" Dst="2" />
 <file name="process-pd.jpg" server="mistergoldberg.com" local="130793144281683521" remote="130793310600000000" Dst="2" />
-<file name="picarty-mash-up.jpg" server="mistergoldberg.com" local="130793137351961311" remote="130793310600000000" Dst="2" />
 <file name="picarty.jpg" server="mistergoldberg.com" local="130793105880508100" remote="130793310600000000" Dst="2" />
-<file name="3d-pool-banner-new-1.jpg" server="mistergoldberg.com" local="130796319243498890" remote="130796278800000000" Dst="2" />
+<file name="3d-pool-banner-new-1.jpg" server="mistergoldberg.com" local="130805938243242192" remote="130806342000000000" Dst="2" />
 <file name="spa-1.jpg" server="mistergoldberg.com" local="130800770841757808" remote="130800729600000000" Dst="2" />
-<file name="spa-2.jpg" server="mistergoldberg.com" local="130805921586640624" remote="130806165600000000" Dst="2" />
+<file name="spa-2.jpg" server="mistergoldberg.com" local="130806419435156256" remote="130806378000000000" Dst="2" />
 <file name="spa-3.jpg" server="mistergoldberg.com" local="130805921006328128" remote="130806165600000000" Dst="2" />
 <file name="spa-6.jpg" server="mistergoldberg.com" local="130800675343476560" remote="130800636000000000" Dst="2" />
 <file name="spa-7.jpg" server="mistergoldberg.com" local="130800674753632816" remote="130800636000000000" Dst="2" />
 <file name="spa-5.jpg" server="mistergoldberg.com" local="130805920754023440" remote="130806165600000000" Dst="2" />
 <file name="spa-8.jpg" server="mistergoldberg.com" local="130800675894140624" remote="130800636000000000" Dst="2" />
-<file name="spa-9.jpg" server="mistergoldberg.com" local="130805929128124992" remote="130806165600000000" Dst="2" />
+<file name="spa-9.jpg" server="mistergoldberg.com" local="130806302522812496" remote="130806343800000000" Dst="2" />
+<file name="3d-pool-background.jpg" server="mistergoldberg.com" local="130806371152003548" remote="130806343800000000" Dst="2" />
+<file name="art-background.jpg" server="mistergoldberg.com" local="130806415855982793" remote="130806374400000000" Dst="2" />
+<file name="art.jpg" server="mistergoldberg.com" local="130806374619700398" remote="130806343800000000" Dst="2" />
+<file name="ball-pop-background.jpg" server="mistergoldberg.com" local="130806410653001586" remote="130806369000000000" Dst="2" />
+<file name="cyclops-background.jpg" server="mistergoldberg.com" local="130806369900312312" remote="130806343800000000" Dst="2" />
+<file name="media-background.jpg" server="mistergoldberg.com" local="130806368847965610" remote="130806343800000000" Dst="2" />
+<file name="picarty-background.jpg" server="mistergoldberg.com" local="130806412328865440" remote="130806370800000000" Dst="2" />
+<file name="picarty-mashup-background.jpg" server="mistergoldberg.com" local="130806413368935307" remote="130806372000000000" Dst="2" />
+<file name="push-button-background.jpg" server="mistergoldberg.com" local="130806360272341742" remote="130806343800000000" Dst="2" />
+<file name="spa-background - Copy.jpg" server="mistergoldberg.com" local="130806336559726698" remote="130806343800000000" Dst="2" />
+<file name="process-info.png" server="mistergoldberg.com" local="130806336559086108" remote="130806345600000000" Dst="2" />
+<file name="process-mag-glass.png" server="mistergoldberg.com" local="130806336559166173" remote="130806345600000000" Dst="2" />
+<file name="process-mc.png" server="mistergoldberg.com" local="130806336559206201" remote="130806345600000000" Dst="2" />
+<file name="process-mp.png" server="mistergoldberg.com" local="130806336559246234" remote="130806345600000000" Dst="2" />
+<file name="process-pd.png" server="mistergoldberg.com" local="130806336559316290" remote="130806345600000000" Dst="2" />
+<file name="process-profile.png" server="mistergoldberg.com" local="130806336559356310" remote="130806345600000000" Dst="2" />
+<file name="process-thumb.png" server="mistergoldberg.com" local="130806336559396347" remote="130806345600000000" Dst="2" />
+<file name="spa-background.jpg" server="mistergoldberg.com" local="130806359312204384" remote="130806348000000000" Dst="2" />
+<file name="picarty.png" server="mistergoldberg.com" local="130806336559046145" remote="130806351000000000" Dst="2" />
+<file name="picarty-mashup.png" server="mistergoldberg.com" local="130806336558976044" remote="130806351600000000" Dst="2" />
+<file name="cyclops-banner-new.jpg" server="mistergoldberg.com" local="130806336558225500" remote="130806360600000000" Dst="2" />
 </dwsync>
